@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del M2 de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora usando git clone + direccion de archivo, despues cd + nombre de archivo, despues code . para que habra esta pestana
